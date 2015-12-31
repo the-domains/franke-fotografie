@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Franke Fotografie]]></title>
+        <description><![CDATA[Franke Fotografie]]></description>
+        <link>https://thegrid.ai/franke-fotografie/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Dec 2015 01:33:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/franke-fotografie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461b439-7f94-4d63-8e8a-4607255729df.jpg">]]></description>
+            <link>https://thegrid.ai/franke-fotografie/67a96957-f0a7-404c-a6b4-73567a44acfe/index.html</link>
+            <guid isPermaLink="false">67a96957-f0a7-404c-a6b4-73567a44acfe</guid>
+            <pubDate>Thu, 31 Dec 2015 01:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/franke-fotografie/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">4ebee465-6fc8-408f-a2fb-35dbfaca94c3</guid>
+            <pubDate>Mon, 19 Oct 2015 17:06:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
